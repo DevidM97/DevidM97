@@ -11,4 +11,4 @@
 
 ### Connect with me:
 
-[![Linkedin](https://user-images.githubusercontent.com/107624242/174074673-7bec6f7c-c605-4a1c-a028-e7ff57bf2ac0.png)](https://www.linkedin.com/in/david-milan-medina)
+[![icon](https://user-images.githubusercontent.com/107624242/174074673-7bec6f7c-c605-4a1c-a028-e7ff57bf2ac0.png)](https://www.linkedin.com/in/david-milan-medina)
