@@ -1,4 +1,5 @@
-![DevidM97](https://user-images.githubusercontent.com/107624242/174070971-247c9824-b951-4ea9-97a0-b7a7c3e738b2.png)
+![DevidM97 (1)](https://user-images.githubusercontent.com/107624242/174071422-8d2f2408-508b-470b-9081-a8a2f9d15f9f.png)
+
 
 ### Hi there, I'm David - aka DevidM97!
 
