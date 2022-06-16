@@ -1,5 +1,4 @@
-![DevidM97 (1)](https://user-images.githubusercontent.com/107624242/174071422-8d2f2408-508b-470b-9081-a8a2f9d15f9f.png)
-
+<img src=”https://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png](https://user-images.githubusercontent.com/107624242/174071422-8d2f2408-508b-470b-9081-a8a2f9d15f9f.png" alt=”my banner” align="center">
 
 ### Hi there, I'm David - aka DevidM97!
 
